@@ -26,3 +26,6 @@ For development, widely used tools and resources were utilized to maintain effic
 
 In conclusion, this Real-Time Chat Application showcases how modern technologies can work together to create a fast, responsive, and reliable communication platform. Its real-time capabilities, attractive design, and adaptability make it a valuable solution for a wide range of industries. With proper deployment, it has the potential to significantly improve user engagement and communication efficiency.
 
+#output
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f7111fe4-21a3-4cd2-b786-bfb023dae3b0" />
